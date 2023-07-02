@@ -22,7 +22,7 @@ import com.prodapi.ecommerce.service.ProductService;
 @RestController
 @CrossOrigin(origins = "http://localhost:4200", maxAge = 3600, allowCredentials="true")
 public class ProductController {
-	
+	//Test
     @Autowired
     private ProductService productService;
     
