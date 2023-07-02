@@ -11,7 +11,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class EcommProdAPIApplication {
 	//Test
 	public  void main(String[] args) {
-		SpringApplication.run(EcommProdAPIApplication.class, args);
+		SpringApplication.run(EcommProdAPIApplication.class, args)
 	}
 
 }
